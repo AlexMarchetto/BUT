@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "f7d6e958332e1224",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0089eb83de9f633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4562f20eee1fe8e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df11cbaa0b93aacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93245c4ca98ec1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae4fccc518bfba9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fd74c89d2523c97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a5603a2ae690a0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac155eae6b2a7402",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f06336f111892e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd31dbb440846f78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R5.14/Company presentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6da9eba5099593eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R5.14/Company presentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc01e97b23cdc619",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5addaf7bb3a82ca8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R5.14/Company presentation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae4fccc518bfba9d",
+  "lastOpenFiles": [
+    "R5.08/NodeJS.md",
+    "R5.14/Company presentation.md",
+    "R6.02/Droit du numérique.md",
+    "R6.02",
+    "R5.08/tp1/nodemagick/images/output/output.jpg",
+    "R5.08/tp1/nodemagick/bin/applyFilter.js",
+    "R5.08/tp1/nodemagick/bin",
+    "R5.08/tp1/nodemagick/examples/filters_example.js",
+    "R5.08/tp1/nodemagick/dist/nodemagick.js",
+    "R5.08/tp1/nodemagick/dist",
+    "R5.08/tp1/nodemagick/index.js",
+    "R5.08/tp1/nodemagick/src/filters.js",
+    "R5.08/tp1/nodemagick/rollup.config.js",
+    "R5.08/tp1/nodemagick/images/output/invert_image.jpg",
+    "R5.08/tp1/nodemagick/examples/invert_example.js",
+    "R5.07/Tp_git/TP2/TP2 Questions.md",
+    "R5.07/Tp_git/TP2/exercise-branch2/README.md",
+    "R5.07/Tp_git/TP2/exercise-branch1/README.md",
+    "R5.07/Tp_git/TP1/TP1 Questions.md",
+    "R5.07/CM - Suivi de Version GIT.md",
+    "R5.08/tp1/nodemagick/images/output/grayscale_image.jpg",
+    "R5.08/tp1/nodemagick/images/output/inverted_image.jpg",
+    "R5.08/tp1/nodemagick/images/input/pic_trulli.jpg",
+    "R5.08/tp1/nodemagick/grayscale_image.jpg",
+    "R5.08/tp1/nodemagick/inverted_image.jpg",
+    "R5.08/tp1/nodemagick/pic_trulli.jpg",
+    "R5.08/tp1/nodemagick/node_modules/canvas/Readme.md",
+    "R5.08/tp1/nodemagick/node_modules/node-addon-api/README.md",
+    "R5.08/tp1/nodemagick/node_modules/node-addon-api/LICENSE.md",
+    "R5.08/tp1/nodemagick/node_modules/node-addon-api/tools/README.md",
+    "R5.08/tp1/nodemagick/node_modules/tar-fs/README.md",
+    "R5.08/tp1/nodemagick/node_modules/prebuild-install/README.md",
+    "R5.08/tp1/nodemagick/node_modules/prebuild-install/CONTRIBUTING.md",
+    "R5.08/tp1/nodemagick/node_modules/prebuild-install/CHANGELOG.md",
+    "R5.08/tp1/nodemagick/node_modules/rc/README.md",
+    "R5.08/tp1/nodemagick/node_modules/napi-build-utils/README.md",
+    "R5.08/tp1/nodemagick/node_modules/prebuild-install/node_modules/simple-get/README.md",
+    "R5.08/tp1/nodemagick/node_modules/simple-get/README.md",
+    "R5.08/tp1/nodemagick/node_modules/napi-build-utils/index.md",
+    "R5.08/tp1/nodemagick/node_modules/node-abi/README.md",
+    "R5.08/tp1/nodemagick/node_modules/tar-stream/README.md",
+    "R5.08/tp1/nodemagick/node_modules/prebuild-install/node_modules/mimic-response/readme.md",
+    "R5.08/tp1/nodemagick/node_modules/prebuild-install/node_modules/decompress-response/readme.md",
+    "R5.08/tp1/nodemagick/node_modules/expand-template/README.md",
+    "R5.08/tp1/nodemagick-web/pic_trulli.jpg",
+    "R5.08/tp1/nodemagick-web/everest.jpeg"
+  ]
+}
